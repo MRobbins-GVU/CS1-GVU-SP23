@@ -7,3 +7,4 @@ Created on Thu Jan 12 19:08:30 2023
 
 print("Today was a good day")
 print("Yesterday, not so much")
+print("Tomorrow, who knows?")

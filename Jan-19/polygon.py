@@ -17,7 +17,7 @@ def polygon(num_sides, length):
 def main():
     speed(1)
 
-    for sides in range(3, 10):
+    for sides in range(3, 100):
         polygon(sides, 80)
 
     # polygon(3, 100)
